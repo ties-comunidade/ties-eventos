@@ -19,12 +19,14 @@ E o que tem de mais novo em Tecnologia.
 
 ## Programação do Evento
 
-08:30 as 09:00 - Networking / Check-In
-09:00 as 09:20 - Abertura - MultiVix e TIES
-09:20 as 09:40 - Patrocinador: DotCode - Henrique Mauri
-09:40 as 10:30 - Palestra 1 - O Dev do Futuro: Multiplicando sua Capacidade de Entrega com Inteligência Artificial - Palestrante: Gabriel Vieira
-10:30 as 10:50 - Coffee-break
-10:50 as 11:40 - Palestra 2 - Abordando GraphQL com .NET e Hot Chocolate - Palestrante - Vitório Baungartem
+| Horário | Descrição |
+|:--------:|:--------:|
+|08:30 as 09:00 | Networking / Check-In |
+|09:00 as 09:20 | Abertura - MultiVix e TIES |
+|09:20 as 09:40 | Patrocinador: DotCode - Henrique Mauri |
+|09:40 as 10:30 | Palestra 1 - O Dev do Futuro: Multiplicando sua Capacidade de Entrega com Inteligência Artificial - Palestrante: Gabriel Vieira |
+|10:30 as 10:50 | Coffee-break |
+|10:50 as 11:40 | Palestra 2 - Abordando GraphQL com .NET e Hot Chocolate - Palestrante - Vitório Baungartem |
 
 ---
 
